@@ -47,7 +47,7 @@ A modern and interactive **Retail Sales Intelligence Dashboard** designed to pro
 
 ---
 
-## 📸 Preview
+## 📸 Dashboard Preview
 
 ![Dashboard Preview](./preview.png)
 
